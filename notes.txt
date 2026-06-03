@@ -1,0 +1,42 @@
+React JS Notes 
+
+JS Bundle file ---> 
+
+React is Combination of HTML and JS which is called as jsx(javascript xml) 
+
+Components 
+
+Hooks 
+
+Function components and Class Components 
+
+Propeties - props - Passing the data from one component to another 
+
+Conditional Rendering - according to elements changes the screen will render  
+
+List - we are going to map method
+
+Inline css 
+
+State - useState 
+
+Hooks - built in functions 
+
+Multiple state in hooks 
+
+Multiple state with object
+
+Updating object in the state
+
+Updating arrays in object
+
+UseEffect - we use this useEffect whenever timing related senarios
+
+eg: API call, database interaction, reading the file and writing the file, etc..
+
+Forms in react 
+
+submiting the form 
+
+
+
